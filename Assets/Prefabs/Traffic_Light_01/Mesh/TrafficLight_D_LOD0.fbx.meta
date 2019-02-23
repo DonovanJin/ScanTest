@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: b40fd0b77ec316c4591d6c4c08269198
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: connectA1_LOD0
+    100002: connectA1_LOD5
+    100004: connectA1_LOD6
+    100006: connectA1_LOD7
+    100008: connectA2_LOD0
+    100010: light3Head_LOD0
+    100012: light3Head_LOD10
+    100014: light3Head_LOD4
+    100016: light3Head_LOD7
+    100018: pole_LOD0
+    100020: //RootNode
+    100022: connectD1_LOD0
+    100024: connectD2_LOD0
+    100026: connectD3_LOD0
+    100028: connectD4_LOD0
+    100030: connectD5_LOD00
+    100032: connectD6_LOD0
+    100034: connectD7_LOD0
+    100036: connectD8_LOD0
+    100038: D1box_LOD0.001
+    100040: light3HeadD1_LOD0
+    100042: light3HeadD2_LOD0
+    100044: light3HeadD3_LOD0
+    100046: light3HeadD4_LOD0
+    100048: poleD1_LOD0
+    400000: connectA1_LOD0
+    400002: connectA1_LOD5
+    400004: connectA1_LOD6
+    400006: connectA1_LOD7
+    400008: connectA2_LOD0
+    400010: light3Head_LOD0
+    400012: light3Head_LOD10
+    400014: light3Head_LOD4
+    400016: light3Head_LOD7
+    400018: pole_LOD0
+    400020: //RootNode
+    400022: connectD1_LOD0
+    400024: connectD2_LOD0
+    400026: connectD3_LOD0
+    400028: connectD4_LOD0
+    400030: connectD5_LOD00
+    400032: connectD6_LOD0
+    400034: connectD7_LOD0
+    400036: connectD8_LOD0
+    400038: D1box_LOD0.001
+    400040: light3HeadD1_LOD0
+    400042: light3HeadD2_LOD0
+    400044: light3HeadD3_LOD0
+    400046: light3HeadD4_LOD0
+    400048: poleD1_LOD0
+    2100000: trafficLight_mtl
+    2100002: No Name
+    2300000: connectA1_LOD0
+    2300002: connectA1_LOD5
+    2300004: connectA1_LOD6
+    2300006: connectA1_LOD7
+    2300008: connectA2_LOD0
+    2300010: light3Head_LOD0
+    2300012: light3Head_LOD10
+    2300014: light3Head_LOD4
+    2300016: light3Head_LOD7
+    2300018: pole_LOD0
+    2300020: connectD1_LOD0
+    2300022: connectD2_LOD0
+    2300024: connectD3_LOD0
+    2300026: connectD4_LOD0
+    2300028: connectD5_LOD00
+    2300030: connectD6_LOD0
+    2300032: connectD7_LOD0
+    2300034: connectD8_LOD0
+    2300036: D1box_LOD0.001
+    2300038: light3HeadD1_LOD0
+    2300040: light3HeadD2_LOD0
+    2300042: light3HeadD3_LOD0
+    2300044: light3HeadD4_LOD0
+    2300046: poleD1_LOD0
+    3300000: connectA1_LOD0
+    3300002: connectA1_LOD5
+    3300004: connectA1_LOD6
+    3300006: connectA1_LOD7
+    3300008: connectA2_LOD0
+    3300010: light3Head_LOD0
+    3300012: light3Head_LOD10
+    3300014: light3Head_LOD4
+    3300016: light3Head_LOD7
+    3300018: pole_LOD0
+    3300020: connectD1_LOD0
+    3300022: connectD2_LOD0
+    3300024: connectD3_LOD0
+    3300026: connectD4_LOD0
+    3300028: connectD5_LOD00
+    3300030: connectD6_LOD0
+    3300032: connectD7_LOD0
+    3300034: connectD8_LOD0
+    3300036: D1box_LOD0.001
+    3300038: light3HeadD1_LOD0
+    3300040: light3HeadD2_LOD0
+    3300042: light3HeadD3_LOD0
+    3300044: light3HeadD4_LOD0
+    3300046: poleD1_LOD0
+    4300000: connectA1_LOD0
+    4300002: pole_LOD0
+    4300004: light3Head_LOD0
+    4300006: connectA2_LOD0
+    4300008: light3Head_LOD4
+    4300010: light3Head_LOD7
+    4300012: light3Head_LOD10
+    4300014: connectA1_LOD5
+    4300016: connectA1_LOD6
+    4300018: connectA1_LOD7
+    4300020: connectD4_LOD0
+    4300022: light3HeadD4_LOD0
+    4300024: connectD7_LOD0
+    4300026: connectD6_LOD0
+    4300028: light3HeadD3_LOD0
+    4300030: connectD3_LOD0
+    4300032: connectD2_LOD0
+    4300034: light3HeadD2_LOD0
+    4300036: connectD1_LOD0
+    4300038: connectD8_LOD0
+    4300040: poleD1_LOD0
+    4300042: light3HeadD1_LOD0
+    4300044: connectD5_LOD00
+    4300046: D1box_LOD0.001
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trafficLight_mtl
+    second: {fileID: 2100000, guid: 355943c5bb0ec5645a1a1ebabfeb5864, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
